@@ -32,6 +32,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 🧬 **[Drugoo](https://github.com/Sujal0910/drugoo)** | Full-stack precision medicine application that acts as a digital clinical geneticist. | `Full-Stack` |
 | 🤖 **[LLM_council](https://github.com/Sujal0910/LLM_council)** | Exploring Large Language Models and AI engineering. | `Python` |
 | ⚕️ **[MedConnect_AI_Symptom_Checker](https://github.com/Sujal0910/MedConnect_AI_Symptom_Checker)** | AI-powered symptom checker for preliminary medical insights. | `HTML`, `Python` |
 | 📰 **[news-aggregator-project](https://github.com/Sujal0910/news-aggregator-project)** | Automated aggregator fetching real-time news from varied sources. | `Python` |

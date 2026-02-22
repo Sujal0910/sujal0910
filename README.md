@@ -14,7 +14,7 @@
 * 🔭 **Currently working on:** Cutting-edge AI models, LLM integration, and WebDev projects.
 * ♟️ **Hobbies:** Playing Chess and solving complex DSA puzzles.
 * 🚀 **Motto:** Code, Learn, Climb.
-* 📫 **How to reach me:** [Add your Email here]
+* 📫 **How to reach me:** sujalagarwal0910@gmail.com
 
 ---
 
@@ -41,16 +41,31 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Analytics & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujal0910&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sujal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal0910&theme=tokyonight&hide_border=true" alt="Sujal's GitHub Streak" width="48%" />
+  <a href="https://github.com/Sujal0910">
+    <img src="https://img.shields.io/badge/Total_Contributions-850+-00FF99?style=for-the-badge&logo=github&logoColor=black" alt="Total Contributions" />
+  </a>
+  <a href="https://github.com/Sujal0910">
+    <img src="https://img.shields.io/badge/Current_Streak-12_Days-FF9900?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Current Streak" />
+  </a>
+  <a href="https://github.com/Sujal0910">
+    <img src="https://img.shields.io/badge/Longest_Streak-45_Days-FF5500?style=for-the-badge&logo=localfiredepartment&logoColor=white" alt="Longest Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal0910&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Secondary_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Web_Dev-HTML5_&_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
 </p>
-
 ---
 
+### 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/sujal-agarwal-0bb622284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  
+  <a href="mailto:sujalagarwal0910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>

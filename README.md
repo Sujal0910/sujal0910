@@ -45,22 +45,14 @@
 ### 📈 GitHub Analytics & Stats
 
 <p align="center">
-  <a href="https://github.com/Sujal0910">
-    <img src="https://img.shields.io/badge/Total_Contributions-250+-00FF99?style=for-the-badge&logo=github&logoColor=black" alt="Total Contributions" />
-  </a>
-  <a href="https://github.com/Sujal0910">
-    <img src="https://img.shields.io/badge/Current_Streak-12_Days-FF9900?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Current Streak" />
-  </a>
-  <a href="https://github.com/Sujal0910">
-    <img src="https://img.shields.io/badge/Longest_Streak-15_Days-FF5500?style=for-the-badge&logo=localfiredepartment&logoColor=white" alt="Longest Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal0910&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=FF9900&currStreakLabel=00FF99" alt="Sujal's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Secondary_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Web_Dev-HTML5_&_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujal0910&show_icons=true&theme=dark&hide_border=true&background=0D1117&count_private=true" alt="Sujal's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal0910&layout=compact&theme=dark&hide_border=true&background=0D1117" alt="Top Languages" height="165" />
 </p>
+
 ---
 
 ### 🤝 Let's Connect!

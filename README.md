@@ -47,11 +47,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sujal0910&amp;theme=dark&amp;hide_border=true&amp;background=transparent&amp;ring=00FF99&amp;fire=FF9900" alt="Sujal's GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujal0910&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=transparent&amp;count_private=true" alt="Sujal's GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Secondary_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />

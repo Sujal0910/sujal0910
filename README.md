@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sujal0910">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Code,+Learn,+Climb.;AI+%26+ML+Wizard;Web+Developer;Always+game+for+Chess+or+DSA+puzzles!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FF99&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Code,+Learn,+Climb.;AI+%26+ML+Wizard;Web+Developer;Always+game+for+Chess+or+DSA+puzzles!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,mongodb,git,github,vscode,linux&perline=12" alt="Sujal's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,mongodb,git,github,vscode,linux&amp;perline=12" alt="Sujal's Tech Stack" />
   </a>
 </p>
 
@@ -45,12 +45,17 @@
 ### 📈 GitHub Analytics & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal0910&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=FF9900&currStreakLabel=00FF99" alt="Sujal's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sujal0910&amp;theme=dark&amp;hide_border=true&amp;background=transparent&amp;ring=00FF99&amp;fire=FF9900" alt="Sujal's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujal0910&show_icons=true&theme=dark&hide_border=true&background=0D1117&count_private=true" alt="Sujal's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal0910&layout=compact&theme=dark&hide_border=true&background=0D1117" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujal0910&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=transparent&amp;count_private=true" alt="Sujal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Secondary_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Web_Dev-HTML5_&_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
 </p>
 
 ---

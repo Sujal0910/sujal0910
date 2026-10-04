@@ -33,7 +33,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🧠 **[Wall-E](https://github.com/Sujal0910/wall-e)** | Custom 124M parameter Small Language Model featuring local RAG and live agentic web search. | `Python`, `PyTorch`, `Flask` |
-| 💻 **[dgen2](https://github.com/Sujal0910/dgen2)** | CLI tool and Python library for interacting with local and remote Large Language Models, managing prompts, and generating embeddings. | `Python`, `SQLite` |
+| 💻 **[dgen2](https://github.com/Sujal0910/dgen2)** |Universal CLI tool and Python library for local and remote LLMs. | `Python`, `SQLite` |
 | 🧬 **[Drugoo](https://github.com/Sujal0910/drugoo)** | Full-stack precision medicine application acts as a digital geneticist. | `Full-Stack` |
 | 🤖 **[LLM_council](https://github.com/Sujal0910/LLM_council)** | Exploring Large Language Models and AI engineering. | `Python` |
 | ⚕️ **[MedConnect_AI_SymptomChecker](https://github.com/Sujal0910/MedConnect_AI_Symptom_Checker)** | AI-powered symptom checker for preliminary medical insights. | `HTML`, `Python` |

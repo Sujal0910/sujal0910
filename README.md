@@ -46,7 +46,7 @@
 ### 📈 GitHub Analytics & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sujal0910&amp;theme=dark&amp;hide_border=true&amp;background=transparent&amp;ring=00FF99&amp;fire=FF9900" alt="Sujal's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sujal0910;theme=dark&amp;hide_border=true&amp;background=transparent&amp;ring=00FF99&amp;fire=FF9900" alt="Sujal's GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />

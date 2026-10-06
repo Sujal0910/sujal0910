@@ -45,7 +45,6 @@
 ---
 ### 📈 GitHub Analytics & Stats
 
-[![Sujal's Trophies](https://github-profile-trophy.vercel.app/?username=Sujal0910&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Secondary_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />

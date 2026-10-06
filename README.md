@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Sujal Agarwal! 👋</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Sujal%20Agarwal&fontSize=70&animation=fadeIn" alt="Capsule Render Header" />
-</p>
-
+![Capsule Render Header](https://capsule-render.vercel.app/api?type=wave&color=00FF99&height=250&section=header&text=Sujal%20Agarwal&fontSize=70&animation=fadeIn)
 <p align="center">
   <a href="https://github.com/Sujal0910">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Code,+Learn,+Climb.;AI+%26+ML+Wizard;Web+Developer;Always+game+for+Chess+or+DSA+puzzles!" alt="Typing SVG" />

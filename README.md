@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-* 🧠 **Focusing on:** AI & ML Wizardry, Full-Stack Web Development, and Data Structures & Algorithms.
-* 🔭 **Currently working on:** Cutting-edge AI models, LLM integration, and WebDev projects.
-* ♟️ **Hobbies:** Playing Chess and solving complex DSA puzzles.
-* 🚀 **Motto:** Code, Learn, Climb.
-* 📫 **How to reach me:** sujalagarwal0910@gmail.com
+- 🧠 **Focusing on:** AI & ML Wizardry, Full-Stack Web Development, and Data Structures & Algorithms.
+- 🔭 **Currently working on:** Cutting-edge AI models, LLM integration, and WebDev projects.
+- ♟️ **Hobbies:** Playing Chess and solving complex DSA puzzles.
+- 🚀 **Motto:** Code, Learn, Climb.
+- 📫 **How to reach me:** sujalagarwal0910@gmail.com
 
 ---
 
@@ -43,13 +43,18 @@
 | ❤️ **[tinder-clone](https://github.com/Sujal0910/tinder-clone)** | A functional Tinder clone built for educational purposes. | `JavaScript` |
 
 ---
+
 ### 📈 GitHub Analytics & Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Secondary_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Web_Dev-HTML5_&_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
-</p>
+<div align="center">
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujal0910&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Sujal0910&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal0910&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 

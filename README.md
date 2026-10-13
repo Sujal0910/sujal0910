@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="d7a0e07686e15945172b31787f08ce77.jpg" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi there, I'm Sujal Agarwal! 👋</h1>
 
 <p align="center">

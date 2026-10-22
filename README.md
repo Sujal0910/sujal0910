@@ -52,7 +52,7 @@
 
 <div align="center">
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujal0910&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujal0910&show_icons=true&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Sujal0910&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
